@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|c:\\users\\moham\\onedrive\\desktop\\depi\\logger\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|c:\\users\\moham\\onedrive\\desktop\\depi\\logger\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|solutionrelative:ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|c:\\users\\moham\\onedrive\\desktop\\depi\\logger\\textfilelogdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|solutionrelative:textfilelogdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|c:\\users\\moham\\onedrive\\desktop\\depi\\logger\\excellogdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|solutionrelative:excellogdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|c:\\users\\moham\\onedrive\\desktop\\depi\\logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|c:\\users\\moham\\onedrive\\desktop\\depi\\logger\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C8C83B-0CF0-4491-9ECF-9056CE025C66}|Logger.csproj|solutionrelative:loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:45:09.467Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:50:30.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\LoggerFactory.cs",
+              "RelativeDocumentMoniker": "LoggerFactory.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\LoggerFactory.cs",
+              "RelativeToolTip": "LoggerFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:51:13.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelLogDestination.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\ExcelLogDestination.cs",
+              "RelativeDocumentMoniker": "ExcelLogDestination.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\ExcelLogDestination.cs",
+              "RelativeToolTip": "ExcelLogDestination.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:48:08.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextFileLogDestination.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\TextFileLogDestination.cs",
+              "RelativeDocumentMoniker": "TextFileLogDestination.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\TextFileLogDestination.cs",
+              "RelativeToolTip": "TextFileLogDestination.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:47:25.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\ILogger.cs",
+              "RelativeDocumentMoniker": "ILogger.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\DEPI\\Logger\\ILogger.cs",
+              "RelativeToolTip": "ILogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:46:50.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
